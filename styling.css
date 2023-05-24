@@ -1,0 +1,250 @@
+.bg-container {
+    background-color: #f79ead;
+    background-size: cover;
+    padding: 30px;
+    font-family: roboto;
+}
+
+.profile-section {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    height: 200px;
+    background-size: cover;
+}
+
+.profile-details {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+.profile-container {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #05062e;
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.profile-icon {
+    font-size: 40px;
+}
+
+.title-section {
+    margin-top: 15px;
+}
+
+.text {
+    color: #05062e;
+    font-size: 10px;
+    font-weight: 500px;
+    width: 50%;
+    margin-left: 0px;
+    font-family: roboto;
+    margin-bottom: 0px;
+}
+
+.text-2 {
+    color: #05062e;
+    width: 50%;
+    font-size: 10px;
+    font-weight: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.text-1 {
+    color: #05062e;
+    margin-top: 10px;
+    font-size: 10px;
+    font-weight: 500px;
+    width: 100%;
+    margin-left: 0px;
+}
+
+.name {
+    color: #270457;
+    font-size: 30px;
+    font-weight: 500px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+.line-1 {
+    border: 2px solid #270457;
+    height: 200px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+
+.horizontal-line {
+    border: 2px solid #270457;
+    width: 80vw;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+.address-section {
+    height: 130px;
+    margin-top: 20px;
+}
+
+.work-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.years-section {
+    display: flex;
+    flex-direction: column;
+    width: 51px;
+}
+
+.years {
+    color: #05062e;
+    font-size: 10px;
+    font-weight: 500px;
+    margin-top: 10px;
+    margin-bottom: 37px;
+}
+
+
+.description-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.description-details {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.description-heading {
+    color: #05062e;
+    font-size: 10px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.description-text {
+    color: #05062e;
+    font-size: 10px;
+    font-weight: 500px;
+}
+
+.skills-and-awards-section {
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+}
+
+.skills-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.skill {
+    color: #05062e;
+    font-size: 10px;
+    font-weight: 500px;
+}
+
+.rating-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.circle-icon {
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 10px;
+}
+
+.line-2 {
+    border: 2px solid #270457;
+    height: 250px;
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.interests-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.interest-icon-container {
+    height: 65px;
+    width: 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #05062e;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+.display-icon {
+    font-size: 30px;
+}
+
+.interest-icon-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.suitcase-icon {
+    font-size: 25px;
+}
+
+.mic {
+    color: #f79ead;
+}
+
+.education-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.education-years-section {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.clipboard-icon {
+    font-size: 30px;
+}
